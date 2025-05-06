@@ -1,0 +1,20 @@
+{
+  "name": "webviewpackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A simple React Native WebView button component",
+  "keywords": [
+    "react-native",
+    "component",
+    "webview"
+  ],
+  "author": "Vicky",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react-native-webview": "^13.13.5"
+  }
+}
