@@ -47,3 +47,7 @@ TypeScript (optional support)
 
 🙌 Author
 Vishal Srivastava
+
+**## 📄 License**
+MIT © [Vishal Srivastava](https://github.com/vicky1989)
+
