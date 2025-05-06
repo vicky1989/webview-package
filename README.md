@@ -44,3 +44,6 @@ WebViewPackage/
 React Native
 react-native-webview
 TypeScript (optional support)
+
+🙌 Author
+Vishal Srivastava
